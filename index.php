@@ -62,7 +62,7 @@ var
 
 <pre>
 	</script>
-	<!--zmienne w Java Script-->
+	<!--zmienne w Java Script 2-->
 	<script type="text/javascript" defer="yes">
 		//var działa w  w dół
 	document.writeln(" na górze Dziś mamy dzień "+dzien+"<br>");
