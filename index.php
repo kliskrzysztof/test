@@ -7,6 +7,7 @@
 		html,body
 		{
 			background-color: yellow;
+			color:red;
 		}
 	</style>
 </head>
