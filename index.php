@@ -75,7 +75,7 @@ var
 
 	let sampoczucje1=" bardzo dobre";
 	document.writeln(" <br>na dole Dziś masz nowe "+sampoczucje);
-		const stala=10; //definjuje stałą wartość ona sie nie bedzie zmieniac
+		const stala=10; //definjuje stałą wartość ona sie nie bedzie zmieniac zmieniam
 
 
 	</script>
